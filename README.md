@@ -25,12 +25,12 @@ HTML para a criação dos conteudos apresentaveis aos usuarios finais e css para
 
 ## Stack utilizada
 
-**Front-end:** React, Redux, TailwindCSS
+**Front-end:** Javascript, CSS,HTML
 
-**Back-end:** Node, Express
+
 
 
 ## Contato
 
-Para projetos , mande um email para benevaniosantos930@gmail.com ou entre em nosso website https://benevanio.vercel.app/
+mande um email para benevaniosantos930@gmail.com ou entre em nosso website https://benevanio.vercel.app/
 
